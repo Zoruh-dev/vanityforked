@@ -1,0 +1,10 @@
+node_modules/
+.config/
+.upm/
+.git/
+
+package-lock.json
+replit.nix
+.replit
+server.cert
+server.key
